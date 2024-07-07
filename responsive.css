@@ -1,0 +1,42 @@
+@media screen and (max-width: 670px){
+    body{
+        background-color: blue;
+    }
+    .items-chailed{
+        display: none;
+    }
+    .togale button{
+
+        display: block;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+@media screen and (min-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left: 216px;}
+  } */
